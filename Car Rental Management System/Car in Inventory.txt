@@ -1,0 +1,8 @@
+Car NUM: 1 
+	 Make is: ferrari
+	 Model is: c180
+	 Year is: 2023
+	 NumberPlate : juttlifebaby
+	 Mileage is: 10
+	 Number of doors: 4
+	 Seats: 2
